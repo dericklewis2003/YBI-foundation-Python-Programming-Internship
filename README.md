@@ -13,9 +13,6 @@ During my internship at YBI Foundation, I worked on several programming projects
      - Fine-tuning hyperparameters and cross-validation for better model performance
    - **Outcome**: Achieved a model accuracy of over 60% for red wine and 56% for white wine, with insights into the chemical properties influencing wine quality.
 
-# Programming Projects/Tasks - YBI Foundation Internship
-
-During my internship at YBI Foundation, I worked on several programming projects that contributed to enhancing my technical skills and problem-solving abilities. Below are the detailed descriptions of the tasks and projects undertaken:
 
 ## 2. **Wine Quality Prediction Using Support Vector Machine (SVM)**
    - **Objective**: To build a machine learning model to predict the quality of red and white wines based on various chemical properties.

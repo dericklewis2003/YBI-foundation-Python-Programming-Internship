@@ -23,3 +23,14 @@ During my internship at YBI Foundation, I worked on several programming projects
      - Model evaluation using precision, recall, and mean squared error (MSE)
      - Fine-tuning model parameters to improve recommendation accuracy
    - **Outcome**: Developed a movie recommendation system that suggests personalized movie recommendations based on user preferences and viewing behavior.
+
+## 3. **Financial Market News Sentiment Analysis Using Machine Learning**
+   - **Objective**: To analyze the sentiment of financial news articles and predict its impact on the market using a Random Forest model.
+   - **Tools Used**: Python, Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn
+   - **Tasks Involved**:
+     - Data acquisition and preprocessing (handling missing values, text cleaning)
+     - Exploratory Data Analysis (EDA) to understand sentiment distribution
+     - Training a Random Forest classifier to predict sentiment from news articles
+     - Model evaluation using accuracy, classification report, and confusion matrix
+     - Making predictions on new news articles to gauge their sentiment and potential market impact
+   - **Outcome**: Developed a sentiment analysis model that classifies financial news as positive or negative, providing insights into how news may influence market movements.
